@@ -17,7 +17,7 @@ A predictive machine learning system designed to screen, quantify, and report oc
 ## 🚀 Getting Started
 ### 1. Clone the Repository
 bash
-git clone [https://github.com/YOUR-USERNAME/workplace-mental-health-ml.git](https://github.com/YOUR-USERNAME/workplace-mental-health-ml.git)
+git clone [https://github.com/subhasri0807/workplace-mental-health-ml.git](https://github.com/subhasri0807/workplace-mental-health-ml.git)
 cd workplace-mental-health-ml
 
 
@@ -36,9 +36,6 @@ python src/generate_pdf_survey.py
  * **Zero Data Retention:** Survey payloads are processed in volatile memory.
  * **Ethical Disclaimers:** Built-in notices ensuring the tool functions as an indicator, not a medical diagnosis.
  * **Future Roadmap:** Implementing Privacy-Preserving Machine Learning (PPML) via Differential Privacy.
-
-
-*
 
 ### How to use this:
 1. Create a file named *README.md* in your project folder.
