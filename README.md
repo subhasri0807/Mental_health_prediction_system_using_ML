@@ -17,7 +17,7 @@ A predictive machine learning system designed to screen, quantify, and report oc
 ## 🚀 Getting Started
 ### 1. Clone the Repository
 bash
-git clone [https://github.com/subhasri0807/workplace-mental-health-ml.git](https://github.com/subhasri0807/workplace-mental-health-ml.git)
+git clone https://github.com/subhasri0807/Mental_health_prediction_system_using_ML.git
 cd workplace-mental-health-ml
 
 
